@@ -1,6 +1,6 @@
 # The version to use for Kiwi Browser
-
-MAJOR=105
+# Latest published Kiwi Next release: 137.0.7337.0
+MAJOR=137
 MINOR=0
-BUILD=5195
-PATCH=33
+BUILD=7337
+PATCH=0
